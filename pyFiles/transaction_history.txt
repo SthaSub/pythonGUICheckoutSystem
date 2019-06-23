@@ -1,0 +1,244 @@
+29) -----Final Receipt -----
+item        quantity    x   price
+banana - 	4	$36.0
+monster - 	6	$12.0
+Total amount due:  	$48.0
+Amount received:   $69.0
+Change given: $ 21.0
+
+28) -----Final Receipt -----
+item        quantity    x   price
+carrot_cake - 	5	$15.0
+Total amount due:  	$15.0
+Amount received:   $49.0
+Change given: $ 34.0
+
+27) -----Final Receipt -----
+item        quantity    x   price
+chocolate - 	5	$25.0
+Garlic - 	5	$50.0
+Total amount due:  	$75.0
+Amount received:   $90.0
+Change given: $ 15.0
+
+26) -----Final Receipt -----
+item        quantity    x   price
+chocolate - 	6	$30.0
+Garlic - 	1	$10.0
+Total amount due:  	$40.0
+Amount received:   $59.0
+Change given: $ 19.0
+
+25) -----Final Receipt -----
+item        quantity    x   price
+monster - 	7	$14.0
+Total amount due:  	$14.0
+Amount received:   $15.0
+Change given: $ 1.0
+
+24) -----Final Receipt -----
+item        quantity    x   price
+carrot_cake - 	4	$12.0
+Total amount due:  	$12.0
+Amount received:   $13.8
+Change given: $ 1.8000000000000007
+
+23) -----Final Receipt -----
+item        quantity    x   price
+banana - 	4	$36.0
+Total amount due:  	$36.0
+Amount received:   $40.0
+Change given: $ 4.0
+
+22) -----Final Receipt -----
+item        quantity    x   price
+banana - 	9	$81.0
+Total amount due:  	$81.0
+Amount received:   $100.0
+Change given: $ 19.0
+
+21) -----Final Receipt -----
+item        quantity    x   price
+banana - 	6	$54.0
+Total amount due:  	$54.0
+Amount received:   $60.0
+Change given: $ 6.0
+
+20) -----Final Receipt -----
+item        quantity    x   price
+banana - 	5	$45.0
+Total amount due:  	$45.0
+Amount received:   $100.0
+Change given: $ 55.0
+
+19) -----Final Receipt -----
+item        quantity    x   price
+banana - 	1	$9.0
+Total amount due:  	$9.0
+Amount received:   $10.0
+Change given: $ 1.0
+
+18) -----Final Receipt -----
+item        quantity    x   price
+Garlic - 	1	$10.0
+carrot_cake - 	1	$3.0
+banana - 	2	$18.0
+monster - 	1	$2.0
+Total amount due:  	$33.0
+Amount received:   $35.0
+Change given: $ 2.0
+
+17) -----Final Receipt -----
+item        quantity    x   price
+banana - 	5	$45.0
+Total amount due:  	$45.0
+Amount received:   $50.0
+Change given: $ 5.0
+
+16) -----Final Receipt -----
+item        quantity    x   price
+chocolate - 	8	$40.0
+Total amount due:  	$40.0
+Amount received:   $50.0
+Change given: $ 10.0
+
+15) -----Final Receipt -----
+item        quantity    x   price
+banana - 	7	$63.0
+Total amount due:  	$63.0
+Amount received:   $120.0
+Change given: $ 57.0
+
+14) -----Final Receipt -----
+item        quantity    x   price
+banana - 	6	$54.0
+Total amount due:  	$54.0
+Amount received:   $100.0
+Change given: $ 46.0
+
+13) -----Final Receipt -----
+item        quantity    x   price
+banana - 	4	$36.0
+Total amount due:  	$36.0
+Amount received:   $50.0
+Change given: $ 14.0
+
+12) -----Final Receipt -----
+item        quantity    x   price
+banana - 	2	$18.0
+Total amount due:  	$18.0
+Amount received:   $21.0
+Change given: $ 3.0
+
+11) -----Final Receipt -----
+item        quantity    x   price
+carrot_cake - 	3	$9.0
+banana - 	4	$36.0
+Total amount due:  	$45.0
+Amount received:   $60.0
+Change given: $ 15.0
+
+10) -----Final Receipt -----
+item        quantity    x   price
+banana - 	6	$54.0
+Total amount due:  	$54.0
+Amount received:   $55.0
+Change given: $ 1.0
+
+9) -----Final Receipt -----
+item        quantity    x   price
+banana - 	2	$18.0
+Total amount due:  	$18.0
+Amount received:   $18.0
+
+8) -----Final Receipt -----
+item        quantity    x   price
+chocolate - 	9	$45.0
+Garlic - 	12	$120.0
+Total amount due:  	$165.0
+Amount received:   $200.0
+Change given: $ 35.0
+
+7) -----Final Receipt -----
+item        quantity    x   price
+banana - 	10	$90.0
+monster - 	2	$4.0
+Total amount due:  	$94.0
+Amount received:   $100.0
+Change given: $ 6.0
+
+6) -----Final Receipt -----
+item        quantity    x   price
+banana - 	4	$36.0
+carrot_cake - 	3	$9.0
+Total amount due:  	$45.0
+Amount received:   $50.0
+Change given: $ 5.0
+
+5) -----Final Receipt -----
+item         quantity   x   price
+banana - 	4	$36.0
+chocolate - 	3	$15.0
+Total amount due:  	$51.0
+Amount received:   $100.0
+Change given: $ 49.0
+
+4) -----Final Receipt -----
+item         quantity   x   price
+banana - 	4	$36.0
+Total amount due:  	$36.0
+Amount received:   $50.0
+Change given: $ 14.0
+
+3) -----Final Receipt -----
+item         quantity   x   price
+banana - 	4  $36.0
+monster - 	5  $10.0
+Total amount due:  	$46.0
+Amount received:   $50.0
+Change given: $ 4.0
+
+2) -----Final Receipt -----
+item         quantity   x   price
+banana - 		7  $63.0
+carrot_cake - 		3  $9.0
+Total amount due:  	$72.0
+Amount received:   $100.0
+Change given: $ 28.0
+
+1) -----Final Receipt -----
+item         quantity   x   price
+banana - 		3  $27.0
+Total amount due:  	$27.0
+Amount received:   $50.0
+Change given: $ 23.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

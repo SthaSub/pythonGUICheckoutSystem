@@ -1,0 +1,9 @@
+29) -----Final Receipt -----
+item        quantity    x   price
+banana - 	4	$36.0
+monster - 	6	$12.0
+Total amount due:  	$48.0
+Amount received:   $69.0
+Change given: $ 21.0
+
+
