@@ -1,8 +1,0 @@
-product_id product_name product_price
-22          monster          2
-33          carrot_cake      3
-44          chocolate        5
-66          banana           9
-11          Garlic	     10
-55	    tomato	     4
-77	    avocado	     2.5
